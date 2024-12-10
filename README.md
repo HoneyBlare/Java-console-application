@@ -13,4 +13,6 @@ This application serves as a simple example of how tree data structures can be u
 4.HOW DOES IT CONTRIBUTE TO YOU OR TO THECOMMUNITY?
 This application can help beginners understand the concepts of tree data structures and their applications in a practical way. It can also be a starting point for building more complex applications that require hierarchical data organization.
 
-![Screenshot 2024-11-17 200612](https://github.com/user-attachments/assets/6854f880-e202-4ae5-8d26-acba0a275aac)
+![Screenshot 2024-11-17 200546](https://github.com/user-attachments/assets/efe945f5-81a2-462a-9677-2c0310b46e7b)
+![Screenshot 2024-11-17 200612](https://github.com/user-attachments/assets/133aac2b-67da-4546-86e7-e5a52fa1ae7d)
+
